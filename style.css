@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: #AA00FF;
+}
+
+img {
+    width: 500px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-shadow: 2px 2px #546E7A;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: #212121'
+
+}
